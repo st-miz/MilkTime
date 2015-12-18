@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sql_create_table_breastfeeding">
+        <![CDATA[
+        create table if not exists breastfeeding(
+            _id integer primary key autoincrement,
+            order_id text not null,
+            start_time integer not null,
+            end_time integer not null,
+            memo text,
+            create_at integer not null,
+            update_at integer not null
+        )
+        ]]>
+    </string>
+</resources>

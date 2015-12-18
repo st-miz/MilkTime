@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">授乳記録</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="appwidget_text">授乳記録</string>
+    <string name="widget_start_button">開始</string>
+    <string name="widget_end_button">終了</string>
+    <string name="widget_app_button">アプリへ</string>
+</resources>
